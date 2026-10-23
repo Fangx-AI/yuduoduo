@@ -59,9 +59,14 @@
     {
      "no": 3,
      "name": "消费者行为分析",
-     "count": 0,
-     "sections": [],
-     "stars": 0
+     "count": 20,
+     "sections": [
+      {
+       "name": "真题精选",
+       "count": 20
+      }
+     ],
+     "stars": 1
     },
     {
      "no": 4,
@@ -998,6 +1003,6 @@
  ],
  "totals": {
   "chapters": 38,
-  "questions": 6629
+  "questions": 6649
  }
 }
